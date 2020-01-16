@@ -2,7 +2,4 @@
 branches:
 - master
 projects: [DG-RulesUI-Fix-Version]
-    libs:
-      - DG-RulesUI-5.phar
-        version: 1.0 
 ...
