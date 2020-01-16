@@ -2,4 +2,6 @@
 branches:
 - master
 projects: [DG-RulesUI-Fix-Version]
+DG-RulesUI-Fix-Version:
+ libs:""
 ...
