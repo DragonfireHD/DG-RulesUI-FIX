@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/DragonfireHD/DG-RulesUI-FIX
+branches:
+- master
+projects: [DG-RulesUI-Fix-Version]
+    libs:
+      - DG-RulesUI-5.phar
+        version: 1.0 
+...
